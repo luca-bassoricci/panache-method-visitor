@@ -1,4 +1,4 @@
-package com.zucchetti.main;
+package test;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
