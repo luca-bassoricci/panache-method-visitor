@@ -11,6 +11,6 @@ public class SubResource
 	@GET
 	public String className()
 	{
-		return Resource.class.getName();
+		return SubResource.class.getName();
 	}
 }
